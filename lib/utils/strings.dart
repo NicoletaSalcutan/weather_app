@@ -1,3 +1,3 @@
 class Strings {
-  static final String currentlyInCluj = "Currently in CLuj-Napoca";
+  static final String currentlyIn = "Currently in ";
 }
